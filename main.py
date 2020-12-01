@@ -1,1 +1,1 @@
-print("hello word")
+print(3%5)
